@@ -6,6 +6,11 @@ name: xhs-daily
 description: "小红薯公开数据每日热点搜索（只读）：关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红书、小红薯、xhs、rednote、笔记链接、博主主页、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.2.3
+display_name: "小红薯每日热点搜索｜高赞排序·时间筛选·行业热点·每日速览"
+display_name_en: "Xiaohongshu Daily"
+description_zh: "小红薯公开数据每日热点搜索接口（只读）：笔记详情、评论舆情、博主作品与粉丝获赞收藏、关键词搜笔记、爆款选题，用关键词搜笔记的最多点赞排序配合近一日/近一周时间筛"
+description_en: "Read-only Xiaohongshu daily search API: keyword note search, note detail, comments, creator and fan stats in JSON."
+author: "新郑市怪奇信息技术工作室"
 category: 数据分析
 homepage: https://www.guaikei.com
 metadata:
